@@ -34,6 +34,7 @@ Whale Song reports, per match:
 3. Extract anywhere and run `鲸歌.exe` (Windows 10/11)
 
 Interface is available in Chinese and English (toggle in the main window).
+When the UI is English, a concise `report.en.md` is generated next to the Chinese report.
 
 No Python installation required. The tool is **offline**: it never uploads anything by itself.
 
