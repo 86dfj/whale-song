@@ -20,7 +20,8 @@ Get-FileHash .\WhaleSong-1.0.zip -Algorithm SHA256
 
 ## What's inside
 
-- `鲸歌.exe` — launcher
+- `WhaleSong.exe` / `鲸歌.exe` — launcher (same program)
+- `QUICKSTART.txt` — English quick start
 - Built-in Python runtime (no installation needed)
 - In-app usage guide explaining every button
 - Bilingual interface: Chinese / English (toggle in the main window)
