@@ -24,6 +24,7 @@ Get-FileHash .\WhaleSong-1.0.zip -Algorithm SHA256
 - Built-in Python runtime (no installation needed)
 - In-app usage guide explaining every button
 - Bilingual interface: Chinese / English (toggle in the main window)
+- English summary `report.en.md` is generated when the UI language is English
 
 ## What it measures
 
