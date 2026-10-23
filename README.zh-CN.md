@@ -29,7 +29,7 @@
 
 ## 安装
 
-1. 在 [Releases](../../releases) 下载 `WhaleSong-1.0.zip`
+1. 在 [Releases](../../releases) 下载最新版 `WhaleSong-1.1.0.zip`
 2. 核对 SHA-256（见 Release 说明）
 3. 解压到任意目录，双击 `WhaleSong.exe` 或 `鲸歌.exe`（Windows 10/11）
 
