@@ -9,6 +9,10 @@ Whale Song records one match's network traffic (with Windows' built-in packet ca
 
 ---
 
+![Whale Song](docs/img/gui.png)
+
+![Tick chart](docs/img/report.png)
+
 ## What it measures
 
 Each game server sends state packets at some cadence. If that cadence is periodic, its spectrum shows a sharp peak, and the peak position is the frequency.
