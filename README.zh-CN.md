@@ -69,6 +69,11 @@
 文档：CC BY-NC 4.0。
 程序：个人非商用免费使用；未经许可不得再分发或修改。详见 [LICENSE.md](LICENSE.md)。
 
+## 文档
+
+- [交接报告（中文）](docs/handoff-zh.md)
+- [Engineer handoff (EN)](docs/handoff-en.md)
+
 ## 链接
 
 - [English README](README.md)
