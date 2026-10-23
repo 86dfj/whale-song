@@ -70,6 +70,11 @@ Report format: `report.md` + `tick.png` produced by the tool.
 Documentation: CC BY-NC 4.0.
 Binaries: free to use for personal, non-commercial purposes. Redistribution or modification without permission is not allowed. See [LICENSE.md](LICENSE.md).
 
+## Docs
+
+- [Engineer handoff (EN)](docs/handoff-en.md)
+- [交接报告（中文）](docs/handoff-zh.md)
+
 ## Links
 
 - [中文说明](README.zh-CN.md)
