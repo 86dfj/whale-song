@@ -29,7 +29,7 @@ Whale Song reports, per match:
 
 ## Install
 
-1. Download `WhaleSong-1.0.zip` from [Releases](../../releases)
+1. Download the latest `WhaleSong-1.1.0.zip` from [Releases](../../releases)
 2. Verify SHA-256 (see the release notes)
 3. Extract anywhere and run `WhaleSong.exe` (Windows 10/11)
 
