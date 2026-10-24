@@ -14,7 +14,7 @@ One session = one capture (30–60 min) → `report.md`, `tick.png`, `report-bri
 
 ## Pipeline
 pktmon → network.etl → network.pcapng on stop → per-packet parse → group into UDP flows (5-tuple) → pick match segments → estimate tick/loss/jitter per segment → report + chart + evidence.
-pktmon duplicates packets (2–6x), so packet counts are inflated; **tick is unaffected**.
+pktmon records the same packet dozens of times; `tickcore.load_flows` deduplicates by "same flow, gap ≤20µs" (removes ~80% of duplicates), so packet counts are now close to real. **Tick is unaffected.**
 
 ## Algorithms
 1. Spectral: FFT peak in 5–130 Hz; significance `snr` (random ≈10–14, >100 clear)
